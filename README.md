@@ -10,4 +10,4 @@ This repository contains the code for a simple user registration form created us
 - Provides options for social media account creation.
 
 ## Live Preview
-[Live Preview]( https://marymadhuri.github.io/User-Registration-Form/)
+[Live Preview](https://maasirashaik17.github.io/User-Registration-Form/)
